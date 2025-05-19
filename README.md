@@ -13,6 +13,8 @@ labyrinth game using pygame
 
 # SCREENSHOTS
 
-![first](assets/img1.png)
-![second](assets/img2.png)
+
+![first](assets/img2.png)
+
+![second](assets/img1.png)
 
