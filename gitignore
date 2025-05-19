@@ -1,0 +1,15 @@
+# repertoire
+
+Lib/
+Include/
+Scripts/
+
+# ajouter ces fichier dans github
+!*.py
+
+!launcher.py
+!astar.py
+!dijkstra.py
+!assets/**
+!.gitignore
+!README.md
