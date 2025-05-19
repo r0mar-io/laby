@@ -13,8 +13,13 @@ labyrinth game using pygame
 
 # SCREENSHOTS
 
-
+- In this first screen shot. we shaw two windows 
+- One for Dijsktra's algorithm to help us to find optimized path
+- One using A* algorithm
 ![first](assets/img2.png)
 
+- In this second screen shot. we shaw two windows 
+- One result using Dijsktra's algorithm to help us to find optimized path
+- One result using A* algorithm
 ![second](assets/img1.png)
 
